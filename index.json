@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "loaders": {
+    "vanilla": {
+      "1.21.4": {
+        "presets": [
+          {
+            "id": "spartan_vanilla",
+            "name": "Spartan Vanilla",
+            "order": 10,
+            "official": true,
+            "files": [
+              {
+                "path": "vanilla/1.21.4/spartan_vanilla/preset.json",
+                "sha256": "7827752758b0754b9c23f73bd4f240c2aaf3a6bf99612f6cc88c25d92b4b4a20"
+              },
+              {
+                "path": "vanilla/1.21.4/spartan_vanilla/launch.json",
+                "sha256": "8ce6727a56675ead4344f3280daca9e855b89f83c4cd25b99f09a84e3daa9889"
+              },
+              {
+                "path": "vanilla/1.21.4/spartan_vanilla/options.txt",
+                "sha256": "4e819d6f9a47e87cee8040fa725304b0502e390d946482922be4cded4b490583"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
