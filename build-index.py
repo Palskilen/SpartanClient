@@ -39,11 +39,11 @@ def main():
                     continue
                 with open(meta_path, encoding="utf-8") as f:
                     meta = json.load(f)
-                files = [
-                    {"path": f"{loader}/{version}/{pid}/{name}", "sha256": sha256(os.path.join(pdir, name))}
-                    for name in PRESET_FILES
-                    if os.path.isfile(os.path.join(pdir, name))
-                ]
+                names = [n for n in PRESET_FILES if os.path.isfile(os.path.join(pdir, n))]
+                cfg = os.path.join(pdir, "config")  # mod settings, installed into the preset's config folder
+                if os.path.isdir(cfg):
+                    names += ["config/" + n for n in sorted(os.listdir(cfg)) if os.path.isfile(os.path.join(cfg, n))]
+                files = [{"path": f"{loader}/{version}/{pid}/{n}", "sha256": sha256(os.path.join(pdir, n))} for n in names]
                 presets.append({
                     "id": pid,
                     "name": meta.get("name", pid),

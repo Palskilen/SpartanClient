@@ -50,6 +50,48 @@
           }
         ]
       }
+    },
+    "fabric": {
+      "1.21.4": {
+        "presets": [
+          {
+            "id": "spartan_fabric",
+            "name": "Spartan Fabric",
+            "order": 10,
+            "official": true,
+            "files": [
+              {
+                "path": "fabric/1.21.4/spartan_fabric/preset.json",
+                "sha256": "abc47a34d861be6fad484a0811c998b75d3e0b7aa605e8733760225778f180e2"
+              },
+              {
+                "path": "fabric/1.21.4/spartan_fabric/launch.json",
+                "sha256": "8ce6727a56675ead4344f3280daca9e855b89f83c4cd25b99f09a84e3daa9889"
+              },
+              {
+                "path": "fabric/1.21.4/spartan_fabric/options.txt",
+                "sha256": "327bc3195c07d9880aa7ffebbd643094f75b6e30b40fcb08057a9f43efc2d75d"
+              },
+              {
+                "path": "fabric/1.21.4/spartan_fabric/mods.json",
+                "sha256": "f6fd36a21e5941dc2d5f4a51f7c3df7902a59fcc824bf60b42001651b5770e0a"
+              },
+              {
+                "path": "fabric/1.21.4/spartan_fabric/config/moreculling.toml",
+                "sha256": "f182775a737fe938b217449bb18282f432b2f9eec64f1d2ba9f666fe03e7f796"
+              },
+              {
+                "path": "fabric/1.21.4/spartan_fabric/config/sodium-extra-options.json",
+                "sha256": "4c1191bac4a88962dc70191e9d02d8cbb28070fc544ec924f166a89ea2f798ec"
+              },
+              {
+                "path": "fabric/1.21.4/spartan_fabric/config/sodium-options.json",
+                "sha256": "ce583b9d7121dc1eb2399e329bf46c6ba3fd5b8f63e29bf5a25d37e9b9f0fc9d"
+              }
+            ]
+          }
+        ]
+      }
     }
   }
 }
