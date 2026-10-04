@@ -1,5 +1,5 @@
 version:4189
-ao:true
+ao:false
 biomeBlendRadius:0
 enableVsync:false
 entityDistanceScaling:0.75
@@ -18,7 +18,7 @@ graphicsMode:0
 guiScale:2
 maxFps:260
 inactivityFpsLimit:"afk"
-mipmapLevels:2
+mipmapLevels:0
 narrator:0
 particles:1
 reducedDebugInfo:false
@@ -124,7 +124,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
