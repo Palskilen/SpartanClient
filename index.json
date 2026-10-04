@@ -74,7 +74,7 @@
               },
               {
                 "path": "fabric/1.21.4/spartan_fabric/mods.json",
-                "sha256": "f6fd36a21e5941dc2d5f4a51f7c3df7902a59fcc824bf60b42001651b5770e0a"
+                "sha256": "1240149fbb4fcc51a7a6ead0d81b2a7d6cda90add24ea30ab4c3c64a0a1295ee"
               },
               {
                 "path": "fabric/1.21.4/spartan_fabric/config/moreculling.toml",

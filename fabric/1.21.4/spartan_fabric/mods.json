@@ -1,27 +1,695 @@
 [
-  "fabric-api",
-  "sodium",
-  "sodium-extra",
-  "lithium",
-  "ferrite-core",
-  "immediatelyfast",
-  "entityculling",
-  "modernfix",
-  "moreculling",
-  "krypton",
-  "noisium",
-  "reeses-sodium-options",
-  "badoptimizations",
-  "c2me-fabric",
-  "threadtweak",
-  "ksyxis",
-  "dynamic-fps",
-  "ebe",
-  "language-reload",
-  "scalablelux",
-  "exordium",
-  "ixeris",
-  "fastquit",
-  "fast-ip-ping",
-  "particle-core"
+ {
+  "slug": "fabric-api",
+  "versionId": "p96k10UR",
+  "version": "0.119.4+1.21.4",
+  "file": "fabric-api-0.119.4+1.21.4.jar",
+  "sha512": "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "sodium",
+  "versionId": "c3YkZvne",
+  "version": "mc1.21.4-0.6.13-fabric",
+  "file": "sodium-fabric-0.6.13+mc1.21.4.jar",
+  "sha512": "2c72ca2ddfd27e29ff6c24fccdf6f3d80857bd1014c707017f96cb4a424f94918e53ba21d85f22e3c9171803f8d2c12c99ae857d38d8e85546cc65960b95a2f1",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "sodium-extra",
+  "versionId": "f4TfteNb",
+  "version": "mc1.21.4-0.6.1+fabric",
+  "file": "sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+  "sha512": "84f33cff29ecdb535cc65d836839003c8739765e0a464e011486ceaf744693b5d40f36c4ea4b117f7f00139c1dbf1b3b0e51170f4055afa03567e4079358a0e9",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "lithium",
+  "versionId": "u8pHPXJl",
+  "version": "mc1.21.4-0.15.3-fabric",
+  "file": "lithium-fabric-0.15.3+mc1.21.4.jar",
+  "sha512": "b8b541c0e968571c8972872b342e34b92573bc9210d455dc1349589f30a67a90d930dbfd99b176ab9b110350ceb53e11118378dc13a35e83a9090826627bdac0",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "ferrite-core",
+  "versionId": "7KqeXPRS",
+  "version": "7.1.3-fabric",
+  "file": "ferritecore-7.1.3-fabric.jar",
+  "sha512": "74487d6efa6e973914665d0fdf366156c47e26a0e52a492ec5d5b68d7ea331535fa2cb46eb95a8846e3b2f0318bbcfdff3885df0bfce1bc83696b211d95e9863",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "immediatelyfast",
+  "versionId": "gF6yVXr9",
+  "version": "1.8.7+1.21.4-fabric",
+  "file": "ImmediatelyFast-Fabric-1.8.7+1.21.4.jar",
+  "sha512": "d87936711818545a92b932897a0dd9f3e692470ce9acf3e576b4989bf5c8f8579833b762aa2394f8f05e16b8a613fde666897cd88adccdd29e529d31eb3f8a66",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "entityculling",
+  "versionId": "8BN4xxIy",
+  "version": "1.11.2",
+  "file": "entityculling-fabric-1.11.2-mc1.21.4.jar",
+  "sha512": "c0e7d4f06a139a8bb340708c1f8179ba529398523d192f4982ff11967c5e54bca920d1240dd112b10e2e9faed60bbd9bb256d05de280ee5b7c532ca675d5f72c",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "modernfix",
+  "versionId": "ZGxQddYr",
+  "version": "5.20.3+mc1.21.4",
+  "file": "modernfix-fabric-5.20.3+mc1.21.4.jar",
+  "sha512": "ae49114c92a048c9ce79e197fc4df028e186cf13546e710f72247382fa8076f0b70d6aa3224951f4a36c886ca236f099a011f20b021a2b0d1a75c631da4d7d52",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "cloth-config",
+  "versionId": "TJ6o2sr4",
+  "version": "17.0.144+fabric",
+  "file": "cloth-config-17.0.144-fabric.jar",
+  "sha512": "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "moreculling",
+  "versionId": "gWgOJqk8",
+  "version": "1.2.10",
+  "file": "moreculling-fabric-1.21.4-1.2.10.jar",
+  "sha512": "b1e14bd0dd03cb05057a0a28f91da31b504f350659dbcd4128c449579c277a0e2d56eb25f99e36f860f3a580247f15fd8ff7a1d40b50bc96bdda050e207e808a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "krypton",
+  "versionId": "Acz3ttTp",
+  "version": "0.2.8",
+  "file": "krypton-0.2.8.jar",
+  "sha512": "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "reeses-sodium-options",
+  "versionId": "KoUrx3jJ",
+  "version": "mc1.21.4-1.8.3+fabric",
+  "file": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+  "sha512": "42fd766fb3f4064938389599a53c3baad29e40e6ab9cdae9a4302eaa8b2daa96af9128978348549ef47122ecf2663b2e81e5155d01a4be4eba4d03c7e6974dba",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "badoptimizations",
+  "versionId": "KsC2V6FQ",
+  "version": "2.4.1",
+  "file": "BadOptimizations-2.4.1-1.21.2-21.5.jar",
+  "sha512": "e097cbaf9df0bd82b95d34261f6bd811182c4e2d527e0c352bcb8e7de76ef0e740b8a9f4fa25da24c4bdcf01a8e8bdd9f59b0cd9919d4e9890244ba4f874b4db",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "c2me-fabric",
+  "versionId": "EzvMx6b2",
+  "version": "0.3.1.3.0+1.21.4",
+  "file": "c2me-fabric-mc1.21.4-0.3.1.3.0.jar",
+  "sha512": "f944bf4319cfa6fb645d0cbe807b82c74784f44ef7ac75273efa161be4625aa80390ec8cf32a232c0ebce0d0cb23b090979019d93e7550771de56d09d920dd13",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "threadtweak",
+  "versionId": "IvtlnXcT",
+  "version": "0.1.7",
+  "file": "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+  "sha512": "aec7e39b478d47dc96ba12291fd048ed9253c39d27a0c25b8565b3cef08eb5117b4f6bf2453c3377d2de739de8ba0501c77b291b6f0fc82559f0f30514a9125a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "ksyxis",
+  "versionId": "9CU8nnVG",
+  "version": "1.4.5",
+  "file": "Ksyxis-1.4.5.jar",
+  "sha512": "36bb32947ba8dd6160b37bbcf02ae4d54c6c42583717908d646412092088de6e7bbf1db99e7a75738147cdc78e5b34494ab780f7ac7c3f160a70a4d1e8d8e82b",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "dynamic-fps",
+  "versionId": "wMNsaKHd",
+  "version": "3.11.8",
+  "file": "dynamic-fps-3.11.8+minecraft-1.21.2-fabric.jar",
+  "sha512": "24a0d61231e255275715f6868637e0278cb347bafedbf527390175c5ec07d7bd0db17dd84adbd7535c78988b9c040bba907b70392fd435a1b9f2b7e07e7bc69a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "ebe",
+  "versionId": "YokFoILZ",
+  "version": "0.11.3+1.21.4",
+  "file": "enhancedblockentities-0.11.3+1.21.4.jar",
+  "sha512": "c35bd51b54132abca669341cf717c4218e7be0e639d7b85f977d50fe613121a9fdf514c27a0595b58911363cb1e5226732275dc51f59f598345d19051d0a948b",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "language-reload",
+  "versionId": "vxcPpG8h",
+  "version": "1.7.6+1.21.4",
+  "file": "language-reload-1.7.6+1.21.4.jar",
+  "sha512": "139261a211e7f7ed8b00130a4950812799a6a6f920565babce4ed08bd2e24da7b5168d7626ad94cffb11f4e9e897923b994d36d0a629b414e9d1cfe3d8802490",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "scalablelux",
+  "versionId": "brerLvPf",
+  "version": "0.1.2+fabric.87468e8",
+  "file": "ScalableLux-0.1.2+fabric.87468e8-all.jar",
+  "sha512": "ba4223be1e5f983f9ab0a186f2e63f07034e0d39ab009d6b4e59cb1f37e18d6139c669f0ea043b892c4211f79a68f61ebf6d500c0c8742babfa7a49b551cd68a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "exordium",
+  "versionId": "wOWxMkqX",
+  "version": "1.4.2",
+  "file": "exordium-fabric-1.4.2-mc1.21.4.jar",
+  "sha512": "c248d6c164d5f0141cb04d882c63d5fd9959c7c6885a9e31f1d52010b904c00efd080563968dfd808b77b92c02e3600b2c9c62cceb918e7ecca298e425756171",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "ixeris",
+  "versionId": "VvpKQ2jn",
+  "version": "4.6.8+1.21.8-fabric",
+  "file": "Ixeris-4.6.8+1.21.8-fabric.jar",
+  "sha512": "942f976f16b9433987081e13fac26e0d4b4a5a5e5a8b895d3b990f58291bb77c83210d6a18ade896ad042efb784bb5dae4857b144835bd7175143d840049a710",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fastquit",
+  "versionId": "HdbAWjaF",
+  "version": "3.0.0+1.21.4",
+  "file": "fastquit-3.0.0+1.21.4.jar",
+  "sha512": "b2f0fe92e1c3ea6424a1b02271b63e66e37481be4e39cef170ff1ea690a78b25b1f5b25da14733018ed23c229e2832de5752a2257041306b2c72af34406e3ea5",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fast-ip-ping",
+  "versionId": "YgGZAMGc",
+  "version": "v1.0.12-mc1.21.4-fabric",
+  "file": "fast-ip-ping-v1.0.12-mc1.21.4-fabric.jar",
+  "sha512": "85e208b5cc37f7e618b61c5653a7d7471d940f512e8fe99f464e079f3bd82e4b0af1f3446832e846df1546c773ccd1eb51eeb635c183164afb6db092cd0d10e7",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fabric-language-kotlin",
+  "versionId": "eRRZzGMc",
+  "version": "1.14.1+kotlin.2.4.20",
+  "file": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+  "sha512": "91404f87774466ce8604aafea791d8cc97b603bc310dce17c8188f94f7783cca6dc14fc726ce871ca317bfe9033c199d8d858d51284106a00754e952147703b8",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fzzy-config",
+  "versionId": "xWTpuhvN",
+  "version": "0.7.7+1.21.3",
+  "file": "fzzy_config-0.7.7+1.21.3.jar",
+  "sha512": "1ac4a76c0f1df2668daeec0a60d90999d5cb93ddb16b09fcde3b26a648bc18e3f26e3afc40d5d418f0e9a0ca7ce5ad39a881c2196462719fea7f77f75012d1d8",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "particle-core",
+  "versionId": "8MSsUBJM",
+  "version": "0.3.3+1.21.4",
+  "file": "particle_core-0.3.3+1.21.4.jar",
+  "sha512": "bb21410cf28690cc996eb933ff680c7852b5f230ff3e8f3cb15c20f0cba4a6998edff37469b3f8d5613f049e526cb7fbd37faa0e17bf0799af8794ea69be80c3",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "libjf",
+  "versionId": "6wy6ArUZ",
+  "version": "3.18.3",
+  "file": "libjf-3.18.3.jar",
+  "sha512": "728ded0b6c65cb16ddb63a70da1f352de287cc29ca27b6365ee731852f9791dd0f0be8cfb0c5b376c62d692a7e0838924f550238f95483d64b2aa0d2c1351583",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "async-pack-scan",
+  "versionId": "FCCyLTxJ",
+  "version": "0.2.7",
+  "file": "async-pack-scan-0.2.7.jar",
+  "sha512": "bf33e958db26d509cc41c8066632910ff2c72e061cfd1886560de1a8af830d5ee6885ad2a6c602f9bfc95c7cad06ea59093e2c0e5fdd8b4427d3100e57824ef4",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "zconfig",
+  "versionId": "yD19P1nG",
+  "version": "1.0.0+1.21.x",
+  "file": "zconfig-1.0.0+1.21.x.jar",
+  "sha512": "706819e56672a79a814a6b04a96cf5be585679c093a3027f5a2652ca60678c9bd24d5596fa7e373447e582a1360ab4c8540b023ca744ebabca1be426166d0b84",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "zfastnoise",
+  "versionId": "73DMCY3S",
+  "version": "1.0.14+1.21",
+  "file": "zfastnoise-1.0.14+1.21.jar",
+  "sha512": "e19081e664d4fd731d985642279ae2f0e0774eb2da7d92f144a4e34b098d2a5c990cb92ed1f94793129798d75f17fe19450ca277c00d002dbf6734a6bda906b0",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "smoke-suppression",
+  "versionId": "8eeuc2jb",
+  "version": "1.2.7+MC1.21.2-1.21.10",
+  "file": "smoke-suppression-1.2.7+MC1.21.2-1.21.10.jar",
+  "sha512": "0e579a362bd3a8d2a9794d39ddc6ba01e83ac2bd2c1b65c4ad2c4c8660bb5202b7ac91753a4cb10365522c3631add478603fd8c26c568fa998504d0e55a2e5b7",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fastchest",
+  "versionId": "pDaKj9EH",
+  "version": "1.6+1.21.4",
+  "file": "fast-chest-1.6+1.21.4.jar",
+  "sha512": "0f05f5642acd5be20062f70c017b25b8a23408e9f147da2367a54a1edf73b76b62b6ce291a66c81a40f2c7b516bc81b656569f98115afac76a0ef674f082b13a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "forge-config-api-port",
+  "versionId": "SSKF75hc",
+  "version": "v21.4.3-1.21.4-Fabric",
+  "file": "ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+  "sha512": "3ed7728d93e245ca4dca7afc466524c3cab6ed779250ea989ef47aca3f71be8750e6aeebab67c9f7e016153f471c5440db4a48dd278911a0aa367a2692ccb914",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "rrls",
+  "versionId": "7WKQvLDW",
+  "version": "5.1.2+mc1.21.4-fabric",
+  "file": "rrls-5.1.2+mc1.21.4-fabric.jar",
+  "sha512": "749bd74f41c30b33ae4262ac127be00bb3629fc280a7a1a0cb3554081719c929dc5e1390cf01de38e6c7cb0cf75498e629588fc47792a528b43fbfb4d13757c4",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "forcecloseworldloadingscreen",
+  "versionId": "G95MOUIu",
+  "version": "2.2.3",
+  "file": "forcecloseloadingscreen-2.2.3.jar",
+  "sha512": "88f4352479425bf9212a212e898e6112f7157b3231d45f57d2a71e1b62609bdd1581f280bbe8e1bab70e819f932bf5cc92b802d89011ee5edce2e3e5dee2e480",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "entity-view-distance",
+  "versionId": "DvEdX91O",
+  "version": "1.4.0+1.21.4",
+  "file": "entity-view-distance-1.4.0+1.21.4.jar",
+  "sha512": "c29f9c82952477086e429bd023300dcb90f7b4526c06b4f447bd3e1b8368b766319c888fcf5a49dd5896764be787037cd2e40d20fc679b93d56a1b312b1db6fd",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "memoryleakfix",
+  "versionId": "5xvCCRjJ",
+  "version": "v1.1.5",
+  "file": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+  "sha512": "a7bf7429340d076f4b30602bc714280c3f5cb8e814e76e89296c8155e3355b33304a148e9218378a3383127e95b7ba47402506c687f1d58609704fe8cc60ab93",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "vanillaicecreamfix",
+  "versionId": "dLEjyhkA",
+  "version": "1.2.4-beta",
+  "file": "VanillaIcecreamFix-1.2.4-beta.jar",
+  "sha512": "a143e7aa342b21b12d4f91ce5be967245e0f04e12929c3ced859432561f503164aa28478d5a31e47ad7e37c053887b2fc764e2769649922d084eecfca929d631",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "shulkerboxtooltip",
+  "versionId": "zZfEoJB1",
+  "version": "5.2.6+1.21.4-fabric",
+  "file": "shulkerboxtooltip-fabric-5.2.6+1.21.4.jar",
+  "sha512": "49570eba94cf49829f0680ec45226b48f2394ea0e564d05bf9e336b8ac2c86a5977654bdefb27e7d836112571fa55e0ac9f6d7d2a14c252655ea6e73bed309fe",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "yacl",
+  "versionId": "kcTd0BNZ",
+  "version": "3.8.2+1.21.4-fabric",
+  "file": "yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+  "sha512": "4c44736033fe6a662155fb46c0e65e1e4d5011d397c671a2ba86ddb8d0cc3e196cd17d01c4270cec465e0d90664b56054f0d6f9cf743a4fa909c984355194df5",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "architectury-api",
+  "versionId": "73nlw3WM",
+  "version": "15.0.3+fabric",
+  "file": "architectury-15.0.3-fabric.jar",
+  "sha512": "6acc7cfccfc6e93fd8c1895fb2c489cbabd27265f38f7cbad98ddaab2cb2e6d1601633bd12cf26fc0bb100a87949ee06b872f333cf7b8490cccc0082ac586dcb",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "modmenu",
+  "versionId": "qEKKsTqd",
+  "version": "13.0.4",
+  "file": "modmenu-13.0.4.jar",
+  "sha512": "863f7c367898e0fce283b11554d253f05acadf46057ab0d2c14a592582ce35bbd9cf4f4b8cf1e3658a6f7a4bb765f9e49a8a02127edbe017daeea8fb24b0ab4f",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "morechathistory",
+  "versionId": "3siYJiWG",
+  "version": "1.3.1",
+  "file": "morechathistory-1.3.1.jar",
+  "sha512": "31831973dafb0cd4e1ead267b0143aa9ce803d8ebf8fec1dfad884c62ad52cf94da0349b2b0b72d9c0c9a7fb83af75180d85e7ea8a44c459d4d5e960b4e3ea06",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "norefreshscroll",
+  "versionId": "lNjphtEs",
+  "version": "1.0.11",
+  "file": "NoRefreshScroll-1.21.4-1.0.11.jar",
+  "sha512": "77f3eccb72200c2f200a261b32a479a00b3a60b12fa6de3af0e1c0f40246581c5212441dd7d62f9c29c4e762b68add222c6ea560cf1515121e9387b3ef795a88",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "no-resource-pack-warnings",
+  "versionId": "73nzTFDd",
+  "version": "1.3.1",
+  "file": "no-resource-pack-warnings-1.3.1.jar",
+  "sha512": "d745582794be5103cd8d5c562f97e0d9001d36bc5421dbfa63b417cbf439d12ec2c0844a47da0c4c06d8c1c9224939d296285fb02216a7e86410765f4b2165ef",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "resourceful-config",
+  "versionId": "ypVGCY8i",
+  "version": "3.4.3",
+  "file": "resourcefulconfig-fabric-1.21.4-3.4.3.jar",
+  "sha512": "578913ea9f8157be7c163c1f1c8fca933ea7053ab7e65840cd5082152edbc1e9c84beb5afbf86168906440638f6ae0b0635e1172a9911cd50dc2f6bfb03eef9d",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "serverpingerfixer",
+  "versionId": "YkchMFP2",
+  "version": "1.0.6",
+  "file": "serverpingerfixer-1.0.6.jar",
+  "sha512": "f572a99f55484487702bb16202675e8abd79b3d1629eadf7ca5c4506d2d06fcaf8fc21aa15228a526782999515569210e6e4d4531c515540761a9122e3188c47",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "smooth-scrolling-refurbished",
+  "versionId": "ux3vVAfn",
+  "version": "1.3.1",
+  "file": "SmoothScrollingRefurbished-1.3.1+1.21.4.jar",
+  "sha512": "87bc62a4b2b3fbc19c28e27b4839763043efc47c44b1db081f9133f2e93a3813819232b16e8326cc41bcb1f442c399dc599a5034eb8e7972a96dad2f5e4d4502",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "statuseffecttimer",
+  "versionId": "dcLJGbbM",
+  "version": "2.0.0+1.21",
+  "file": "statuseffecttimer-2.0.0+1.21.jar",
+  "sha512": "22b2dcdd494b753386eeb963efb3961003a6d70147ffe045110b853716956b4f18a3629d9b464059314bafc2a00de861cf8dbfa2fa5a4ec86d19db00f3087fde",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "not-enough-animations",
+  "versionId": "YaJtm2jK",
+  "version": "1.12.5",
+  "file": "notenoughanimations-fabric-1.12.5-mc1.21.4.jar",
+  "sha512": "637e8be94f9dd1843ccd6788d13eacd21ef425fa3c318a2b5ef44b958e2ebb536ca37c6a1f6a524883cd31f770f54b273fea75c0eae46102bdd32023566836a9",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "owo-lib",
+  "versionId": "kNCPPFb2",
+  "version": "0.12.20+1.21.4",
+  "file": "owo-lib-0.12.20+1.21.4.jar",
+  "sha512": "c813aeb8153d3401f3e67224f4c620c084a55c9342617edbbd7118d30191faa0202f71bca96eeddf81db6ef0d2e090d53dc35980be5662b7f4f2297f47593300",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "clear-water",
+  "versionId": "l7jEI8p7",
+  "version": "3.1.0",
+  "file": "clearwater-fabric-1.21.4-3.1.0.jar",
+  "sha512": "3a3308feef5ee714e304c90aa2dca03721fb8470974cb4d9e77d77bda7840cbe81878b0f4c7496309bf0268ebf44c6f341f6f32153282afbd86d79df8ffdea6b",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "custom-fov-illusive",
+  "versionId": "fzggGmm7",
+  "version": "10.0.0+1.21.5",
+  "file": "customfov-fabric-10.0.0+1.21.5.jar",
+  "sha512": "39c8ec34f92756d494e3efd4cbd8e43ca23f31398050d20ea94ce3768d8b5f1ed63560b22f56a0ed6de0c3651d023b9658e42f8d3f243a888e24396f55e80d6a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "time-changer",
+  "versionId": "OLAFIByz",
+  "version": "1.3.2",
+  "file": "timechanger-1.3.2.jar",
+  "sha512": "4091158b318f3b7cda7e78d2ff1dfb988c027504cf802c63e7273c70c157affe8b25f1e089a8f3563749013c5efbf1f3d4c6524dbebb4d1a3b620165802d2856",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "cpvp",
+  "versionId": "6TJ7THtE",
+  "version": "1.21.4-1.0.1",
+  "file": "totemtweaks-1.21.4-1.0.1.jar",
+  "sha512": "0c86d4b7afacba288e0c42c7bb1898e5465eaa12b37a8f06686cd849a5b0895380f020e3236a8b91b86f61ebb73d0bc3a1cb09dfa5e585a7273c37d0af8749e1",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "flashback",
+  "versionId": "ZPjE5qyt",
+  "version": "0.39.8",
+  "file": "Flashback-0.39.8-for-MC1.21.4.jar",
+  "sha512": "8e04299e2c902c34155ad65a5d4ff1f78726f73b4b34d2816fed17ca01d3296adc7a1c1a3eb3e56c712de0af4c9d0293dc1a39a0372cb6a822d28e175ee152a7",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "commandkeys",
+  "versionId": "WlVOI7bl",
+  "version": "2.4.0+1.21.4",
+  "file": "commandkeys-fabric-2.4.0+1.21.4.jar",
+  "sha512": "8bce6b4ed749e6629703284ce1714744c88615353c1cacb15475064d9faecbbf90e49f0469b9f9115a5e76ced667b36aa4946c748c830b2797550cab08898d70",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "notenoughcrashes",
+  "versionId": "sW7BgUXk",
+  "version": "4.4.8+1.21.4-fabric",
+  "file": "notenoughcrashes-fabric-4.4.8+1.21.4.jar",
+  "sha512": "e55c4156548b147f27657f0164aba2cafc3c85e21f7fbb0b3b8a4324fbd1d55e25614562559dcdec4b244a44f1d7cb7d1df49f91cf6b54c81e32f3c86f14771c",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "title-fix-mod",
+  "versionId": "LR1jneCC",
+  "version": "1.0.1+MC1.20.6",
+  "file": "title-fix-1.0.1+MC1.20.6.jar",
+  "sha512": "fe34de3096a74a341763b30bcf77bc5c515fc03e0f910c036d54047a646563d30f16277181011ea456c44b1ad51b62b5f4f509b6454802112c89e68bd0f5b590",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "cicada-cape-fix",
+  "versionId": "c8oY66ri",
+  "version": "1.0.0",
+  "file": "cicada-cape-fix-1.0.0.jar",
+  "sha512": "d5e94c3431a760943b860aee0b0a11629bc795555c8f104becc6369932096ce1fe102e8bc0a6f8403b2a6afd89b1521b1f3978678b2d62808d8b184f1a26a5d1",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "recursiveresources",
+  "versionId": "cjOS4b23",
+  "version": "2.7.1+1.21.4",
+  "file": "recursive-resources-2.7.1+1.21.4.jar",
+  "sha512": "7ff9e4aa5e19a3fbdfda66932975dc17e2296fcf1b8d65b8313c8963541d8d6ae59b6cc8b4ccee41c88203b815aaec7ff0ae615bae1a2ccf5f4b3ef256d6c352",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "cicada",
+  "versionId": "Lg1UhwXg",
+  "version": "0.14.3+1.21.4",
+  "file": "cicada-lib-0.14.3+1.21.4.jar",
+  "sha512": "cca449e8315e4415111b97998c3149019eed6f6bce3f59e7928f8b8bd0b70c0f6350f1bbdc093cba48008931e07ec35f4e64a700a7ecca14570e9788febea49a",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "nuit",
+  "versionId": "5UXtojrL",
+  "version": "mc1.21.4-1.0.0-beta.1+fabric",
+  "file": "nuit-fabric-1.0.0-beta.1+mc1.21.4.jar",
+  "sha512": "6731767b6d48cb60d8a3c4f72b87d698a9dfb9af02f63164b0abc3c38f4d3e612a206fffa1adbbacaae8e0d8278a7d18c2fa27469d0a8e7f70ce817988be4d47",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "nuit-interop",
+  "versionId": "k0W3XjIr",
+  "version": "mc1.21.4-1.0.0-beta.1+fabric",
+  "file": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.4.jar",
+  "sha512": "ac314e2b5ffca705ca4d8c324d7e1a8dc91af38eeb6d7420ce19f5bc121b24c7fdf741835cd23e83f55ed9a64addb571e3c0bb01cc51fd16d4e1c75a2ee67da7",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "smooth-swapping",
+  "versionId": "5lFRnDKp",
+  "version": "0.9.4.3-1.21.4",
+  "file": "smoothswapping-0.9.4.3-1.21.4-fabric.jar",
+  "sha512": "8d702f0656fcbf7ff51612b2649d425d8def9a1d3d709db7166f43680e29ea8c7e16ed28fc44a413e4f4f1124b776aff204e9afb6ca052e81529b02f36cbb2ce",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "borderless-fullscreen",
+  "versionId": "cWNwTFQE",
+  "version": "2.2.1a",
+  "file": "BorderlessFullscreen-v2.2.1a-mc1.21.2.jar.jar",
+  "sha512": "fae93ef6ea1f6c0e32c126cdb5ffd6e85cc343d111e4f3b8f0fc5a9e6ac52a096f44abea3b71adcf9e3407aa9b972ad75cd4e0961e70ee5fa91e7d36c95faef5",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "disableinsecurechattoast",
+  "versionId": "c1bp1uSx",
+  "version": "1.2.1",
+  "file": "disableinsecurechattoast-fabric-mc1.20.5-1.2.1.jar",
+  "sha512": "2011459d1bc9bccb4af16c31aaea76b6697601fecb0bae363ec83fe3d0558fda9c61420d56c9bbbcafdaf823e7d6465d0e1d2655f557e553eb83f28b1b23a3b4",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "no-telemetry",
+  "versionId": "cBEkQM9c",
+  "version": "1.10.0",
+  "file": "no-telemetry-1.10.0.jar",
+  "sha512": "a123e59ee7cb9de88669de06d56f5313cc60ee5ec80b0cc407ca0cff3b54b81255fba65e615fa7a33142b8030868e0c2a4cf9bdeadda7b3c593d707eff45576d",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "mixintrace-reborn",
+  "versionId": "qicBuhOz",
+  "version": "1.0-1.21.11-fabric",
+  "file": "mixintrace-1.0-1.21.11-fabric.jar",
+  "sha512": "ccb4207c7e33b5a871edf384b73c6ca04c94dddde6f7366d8de1613517da6d4d45a5a6f8dada435cef6579a6929bae61c1d3cca7e384a2a9d300c5ddc043f2a0",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "craterlib",
+  "versionId": "bvC1h52c",
+  "version": "1.21.3-3.1.3",
+  "file": "CraterLib-Fabric-1.21.3-3.1.3.jar",
+  "sha512": "63aef934ee80bbe5a15220f816825af8ffcdbf76fbfe0de2f8304960ed3f9cfda870b83d9fb8a34b1fcfabb09b94449a395e581713c26ffc89d6184ca1305fc7",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "smooth-skies",
+  "versionId": "eZ8Irh3h",
+  "version": "2.10.9",
+  "file": "smoothskies-2.10.9+1.21.5-fabric.jar",
+  "sha512": "5f532514f85ad46d05faaa7a38d9066293033d54d22717ff3530d857d5d3f484a76f2639ad45c33920acd0909742eef0b31f40c5473c731fab2a3df9a6123802",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "perspektive",
+  "versionId": "SDTn7KCq",
+  "version": "1.4.3",
+  "file": "perspektive-1.4.3.jar",
+  "sha512": "04c04cb8edf4d0dd802ed226243e5eb51d2afc4ca92adb4308df9c74e5617edd667e308869c0c43c02296b55b63641b70b26268b0a256704c541bf000f8d2e99",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "zoomify",
+  "versionId": "r2ewk22o",
+  "version": "2.15.2+1.21.5",
+  "file": "zoomify-2.15.2+1.21.5.jar",
+  "sha512": "687859695c6637e6d8d515a07ef4419e94eced50a593dfd4d26fdd35782b042be7a57d8e1cc4e03cf172f0a767e9c853b5ba807b2131775e5e9813da27fc6ceb",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "in-game-account-switcher",
+  "versionId": "DFnR0F1x",
+  "version": "9.0.8+1.21.4-fabric",
+  "file": "IAS-9.0.8+1.21.4-fabric.jar",
+  "sha512": "deef71b39c227b9422623139f55b028524ed9b8e67f269733111541c3b730cca8b8060c8f693a127c729de3f36ea8c3111a44c25a63c02a556980f1d5ca51b3c",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "auto-sprint-fix",
+  "versionId": "phoiUUiF",
+  "version": "1.0.0",
+  "file": "autosprintfix-1.0.0.jar",
+  "sha512": "b2af2494f49a5ae12456243d8af7d68eaaa76c3b091066f813782bd63da20562b2f3fa8f6b6dd3861374c95015778868f6e0f1ffcc7b30b1b9dd7f7bf1e23a80",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ },
+ {
+  "slug": "placeholder-api",
+  "versionId": "eeN3FuMY",
+  "version": "2.5.2+1.21.3",
+  "file": "placeholder-api-2.5.2+1.21.3.jar",
+  "sha512": "06db18ada7973bd8cbe316faeebd25d89d79820da951208cc2ec69eb4058379d4e0c0233799d7043b5a19b62248f6a4d5f7031c110066fdf5d335e29385e3853",
+  "gameVersion": "1.21.4",
+  "loader": "fabric"
+ }
 ]
