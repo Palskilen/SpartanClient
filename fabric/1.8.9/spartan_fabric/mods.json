@@ -1,0 +1,173 @@
+[
+ {
+  "slug": "legacy-fabric-api",
+  "versionId": "Znk9CSGQ",
+  "version": "1.13.5",
+  "file": "legacy-fabric-api-1.13.5.jar",
+  "sha512": "8000fa3b97a5136c2667bf9aef67aecf782e6d86716fdd589cbf0271ca2b188a171a31a0ab58731fab03cb08c47f98a43f9a3fd75cc5fd16011aefad9372d3ff",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fpspluslf",
+  "versionId": "Zh2JLFek",
+  "version": "Ver-D",
+  "file": "fpsplus-Ver-D.jar",
+  "sha512": "aea7be6531467bee1765be2dfc77334f33e674b7f0dba07f40f2c24526ec9a5226a9bbc4ab598127eb148d6f81e18703c9d227e5dbe82b9add0abfb0a9e5fe8a",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "phosphor-legacy",
+  "versionId": "UdBfSdpd",
+  "version": "0.1.5",
+  "file": "phosphor-legacy-0.1.5+1.8.9.jar",
+  "sha512": "545053cac160326707f9acf27599b16a1adea16817ac6c52cd25cd8af7755b9e34765182fe9c61b58238239799451b13db9ddd6286784710d672f470f9428a67",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "legacyvanillafix",
+  "versionId": "CASpOXB7",
+  "version": "1.0.9+1.8.9",
+  "file": "legacy-vanillafix-1.0.9+1.8.9.jar",
+  "sha512": "dc22fec2d3f30769d6cfad0253481015d4cc25be35a86d15a85ae3bfb840049b60a82d5c6c54dc84cd90ab5e1611217c829cc3c6528e33ae220780b3ec15334a",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "menufpsunlocker",
+  "versionId": "qcEKR94s",
+  "version": "1.1.0-LegacyFabric",
+  "file": "MenuFPSUnlocker-LegacyFabric-1.1.0.jar",
+  "sha512": "77cc9d23da5ee7899a87f7733d1a46443a56a9227f63d93c9bd4364bde567edaf6d00027400d143b2b2ca372ba30bd18993b8ffc94e53610c713ded28baa14c9",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "mipmaplevelandlanguagefix",
+  "versionId": "aWmzozf8",
+  "version": "1.0.0+1.8.9_to_1.12.2",
+  "file": "languagefix-1.0.0+1.8.9_to_1.12.2.jar",
+  "sha512": "67264974132c663fa529e996a4b39cbc3ed8045ac3a9c3c9f04276e0145f86bc686e7fb3eed2902f7d865643440c1cf4747aecceb90bf26abdc3382189ee536e",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "windows-priority-boost",
+  "versionId": "ZKOItDNB",
+  "version": "1.0.0",
+  "file": "WindowsPriorityBoost-1.0.0.jar",
+  "sha512": "ff6d522295a0d80ead6dbce4d7d4823aa07c6e81110b4835e44f884849665d49f675e5a88f08e23b966e76bbd34cc56f5e54d2a66a2fd8fcdd512c880fa5d2d5",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "ksyxis",
+  "versionId": "9CU8nnVG",
+  "version": "1.4.5",
+  "file": "Ksyxis-1.4.5.jar",
+  "sha512": "36bb32947ba8dd6160b37bbcf02ae4d54c6c42583717908d646412092088de6e7bbf1db99e7a75738147cdc78e5b34494ab780f7ac7c3f160a70a4d1e8d8e82b",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "legacyinputpatch",
+  "versionId": "bN8R8SAx",
+  "version": "1.0.2",
+  "file": "LegacyInputPatch-1.0.2.jar",
+  "sha512": "8a7836a0ee2a4c6f17d84f5533c8052e695483b5d48520771e32d804e2431d710a00cee958d2f30ab9026fde3ded10f6f3a0a51324fd633c8554b928e1e1e87c",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "legacy-motiono",
+  "versionId": "Ft8Na4SA",
+  "version": "1.0.0+1.8-1.13",
+  "file": "legacy-motioNO-1.0.0+1.8-1.13.jar",
+  "sha512": "a3abd3cc9c1f2538229137dcfcf472e9a971f00ad98d26c639e728ba67b3d5aa26ddf80aa03a1532fe7a324fc799d2da55d0f6bf380a31d25893451109d6254c",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "omnilook",
+  "versionId": "4ablvWsr",
+  "version": "0.2.1",
+  "file": "omnilook-0.2.1.jar",
+  "sha512": "d807709044627025b31857a9fa37c0bf17f0f6d3b8c96158ad98ba8e310da29f3b33420fa40af55cfb25f3ece46dfa281c5d2026b6b8935e7a52ef7e7d7f3178",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "perspectivenametag",
+  "versionId": "iaWijJlo",
+  "version": "fabric-1.2.0+1.8",
+  "file": "perspectivenametag-fabric-1.2.0+1.8.jar",
+  "sha512": "423d2929fb7dfa69bcf3cb67868217a2c3dadc6207e60b63aeabd2c8f7edf8efb75ca258c9d78a3a308040575ecf91eea07f7470f1c6ceba3787baeccad514d9",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "zume",
+  "versionId": "Rh2ImJ86",
+  "version": "1.2.2",
+  "file": "zume-1.2.2.jar",
+  "sha512": "9803fcf070327ed40316f8323ad7de83977a4ff8dc928c892836c8f49a9be3da6e9282aa85bf8bcf3467c4339f3d16dad5ec92d1a2e9bc9fc10bddba1ffc1190",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "legacy-mod-menu",
+  "versionId": "r7PigOJk",
+  "version": "1.1.0",
+  "file": "legacy-modmenu-1.1.0.jar",
+  "sha512": "33d1d1739ee733c522c1c6afc6451c1a955eadab025883ec911a1a8bb5a5ff57a534221aedbd877409336b8ad5c1184f6168e494bef16dd51536c2c8f4aa2555",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "extended-ingame-hud",
+  "versionId": "VksKaGko",
+  "version": "0.1.0",
+  "file": "extendedhud-0.1.0.jar",
+  "sha512": "9cb651618a3fc85633dadff815ea68bfccf2c4a24282c66d48f2c3e450b3796151c8b0a8635a46e467c8e7b2f3481e7662e519439b39be0d3ceb7c8f29567778",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "togglesprint",
+  "versionId": "NeLK8hkM",
+  "version": "0.1.0",
+  "file": "togglesprint-0.1.0.jar",
+  "sha512": "c3581719ac769c17e17220c361e2ab7a47e7c3d29f5d0a8cc1a528378895aa01fd4e29aadc265f685bb2aaa9c176da207d4e4e993634aee0ca0ceb14e999d4b5",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "fpsdisplay",
+  "versionId": "G0lqK9Js",
+  "version": "3.1.0+1.8.9",
+  "file": "fpsdisplay-3.1.0+1.8.9.jar",
+  "sha512": "292b187f120dcc841dd88956767db1ac8253fe8338035c89107f8d2758c84c6c6d342fd3e3aadc0aadfece138449e8df6dc0663d5f271eacc600e3d148150516",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "letmespeak",
+  "versionId": "j5nFTtct",
+  "version": "1.0",
+  "file": "letmespeak-1.0-lf-1.8.9.jar",
+  "sha512": "6df3709875973806b420e87a1669808bd06989b9b24cd812c636fbbab414ac3461f0f1625c2b143b8af19193e22efbc9ddd47a9c62f5053aeb343b0f047819f6",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ },
+ {
+  "slug": "legacy-better-ping-display",
+  "versionId": "uUNcjhcy",
+  "version": "1.1.1",
+  "file": "BetterPingDisplay-Fabric-1.1.1.jar",
+  "sha512": "71a5ec8e96d7da7d273910dca59ef1f4723fafac3365fb75b7acd9a7d1811f7c76e6e26b52b889a316d4f5f85c7dd2b35ad60be77457b36f93ba008857f7608a",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
+ }
+]
