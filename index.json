@@ -20,7 +20,7 @@
               },
               {
                 "path": "vanilla/1.21.4/spartan_vanilla/options.txt",
-                "sha256": "675bdd21607eee63e93d631a67e9c37fae1c6ba8a30e84058d9514e57be1c344"
+                "sha256": "c2a15e5cc14ecbaf89bc04588862b13208f39e8b714a06672a7bc4b954ca7ae4"
               }
             ]
           }
@@ -44,7 +44,7 @@
               },
               {
                 "path": "vanilla/1.8.9/spartan_vanilla/options.txt",
-                "sha256": "cfd0e9ce50c22f3d71f46fc19ec7ddb4d6c53d8839332f30ff4a483b54ca034e"
+                "sha256": "7730c154bf982dd8d284ccf16c2976a8ab8730990025d1847509eecad1826431"
               }
             ]
           }
@@ -70,7 +70,7 @@
               },
               {
                 "path": "fabric/1.21.4/spartan_fabric/options.txt",
-                "sha256": "327bc3195c07d9880aa7ffebbd643094f75b6e30b40fcb08057a9f43efc2d75d"
+                "sha256": "3d9ee3a7d25374bfe9c324f5cef8b52c34f0ba310e8bd227e4b8f1f6df7ace9f"
               },
               {
                 "path": "fabric/1.21.4/spartan_fabric/mods.json",
@@ -118,7 +118,7 @@
               },
               {
                 "path": "fabric/1.8.9/spartan_fabric/options.txt",
-                "sha256": "cfd0e9ce50c22f3d71f46fc19ec7ddb4d6c53d8839332f30ff4a483b54ca034e"
+                "sha256": "7730c154bf982dd8d284ccf16c2976a8ab8730990025d1847509eecad1826431"
               },
               {
                 "path": "fabric/1.8.9/spartan_fabric/mods.json",

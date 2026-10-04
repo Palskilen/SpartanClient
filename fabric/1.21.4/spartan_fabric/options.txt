@@ -6,7 +6,7 @@ entityDistanceScaling:0.5
 entityShadows:false
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:1.0
+fov:0.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -127,16 +127,6 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:0.0
-soundCategory_record:1.0
-soundCategory_weather:1.0
-soundCategory_block:1.0
-soundCategory_hostile:1.0
-soundCategory_neutral:1.0
-soundCategory_player:1.0
-soundCategory_ambient:1.0
-soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
