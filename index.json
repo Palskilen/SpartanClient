@@ -25,6 +25,30 @@
             ]
           }
         ]
+      },
+      "1.8.9": {
+        "presets": [
+          {
+            "id": "spartan_vanilla",
+            "name": "Spartan Vanilla",
+            "order": 10,
+            "official": true,
+            "files": [
+              {
+                "path": "vanilla/1.8.9/spartan_vanilla/preset.json",
+                "sha256": "7827752758b0754b9c23f73bd4f240c2aaf3a6bf99612f6cc88c25d92b4b4a20"
+              },
+              {
+                "path": "vanilla/1.8.9/spartan_vanilla/launch.json",
+                "sha256": "8ce6727a56675ead4344f3280daca9e855b89f83c4cd25b99f09a84e3daa9889"
+              },
+              {
+                "path": "vanilla/1.8.9/spartan_vanilla/options.txt",
+                "sha256": "cfd0e9ce50c22f3d71f46fc19ec7ddb4d6c53d8839332f30ff4a483b54ca034e"
+              }
+            ]
+          }
+        ]
       }
     }
   }
