@@ -169,5 +169,14 @@
   "sha512": "71a5ec8e96d7da7d273910dca59ef1f4723fafac3365fb75b7acd9a7d1811f7c76e6e26b52b889a316d4f5f85c7dd2b35ad60be77457b36f93ba008857f7608a",
   "gameVersion": "1.8.9",
   "loader": "fabric"
+ },
+ {
+  "slug": "spartan-hud",
+  "url": "https://github.com/Palskilen/SpartanClient/raw/main/mods/spartan-hud/spartan-hud-0.5.0+1.8.9.jar",
+  "version": "0.5.0+1.8.9",
+  "file": "spartan-hud-0.5.0+1.8.9.jar",
+  "sha512": "114b0dba8a9ebaa1f9a752f0059c2ee8b68e05e21a11ed401dbadfb1279c0c18d1549d2831e95b304a44a124c2e5df1f33fe7334c7dd8d084c0e3610b4feee3b",
+  "gameVersion": "1.8.9",
+  "loader": "fabric"
  }
 ]
